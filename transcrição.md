@@ -1,6 +1,6 @@
 ## Metadados da Entrevista
 
-**Titulo:** Mémorias de Infância
+**Titulo:** Memórias de Infância
 
 **Entrevistadora:** Maria de Fátima Centeio
 
