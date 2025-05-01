@@ -58,4 +58,4 @@ Boa tarde. Neste momento, inicio a minha entrevista com o meu colega Alexandre.
 **Pergunta:** Se pudesses reviver um dia da tua infância, qual escolherias e porquê?  
 **Resposta:** Um dia de Natal, com a minha avó materna e o meu avô paterno ainda vivos. Estarmos todos juntos na mesma mesa seria o dia perfeito para reviver. Não hesitaria.
    
-**Entrevistado:** É tudo.
+É tudo.
