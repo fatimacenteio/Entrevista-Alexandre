@@ -52,7 +52,7 @@ A presente entrevista foi realizada no âmbito do projecto Memórias de Infânci
 ### Fotografia 3 - Passeio a Peniche
 ![Fotografia 3](./fotografia3.jpeg)
 
-**Título** Fotografia de passeio  
+**Título:** Fotografia de passeio  
 
 **Descrição:** Registo de um passeio a Peniche, onde Alexandre posa junto a uma embarcação atracada perto de uma falésia. A expressão no seu rosto reflecte a curiosidade e entusiasmo típicos de uma criança em descoberta.
 
