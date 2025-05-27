@@ -1,0 +1,6 @@
+alexandre (PER)
+mclaren (ORG)
+páscoa (MISC)
+guardo (PER)
+em portugal (LOC)
+páscoa (MISC)
