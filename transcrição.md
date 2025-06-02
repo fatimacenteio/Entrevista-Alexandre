@@ -38,7 +38,7 @@ Boa tarde. Neste momento, inicio a minha entrevista com o meu colega Alexandre.
 **Resposta:** Não havia um brinquedo específico, mas guardo com carinho algumas peças de vestuário do tempo em que jogava futebol. T-shirts com o meu nome, chuteiras, casacos... evocam boas memórias da infância.
 
 **Pergunta:** Como foi a tua experiência na escola primária? Tinhas alguma disciplina preferida?  
-**Resposta:** Sempre gostei muito de inglês. Mesmo quando não entendia os filmes, sentia vontade de compreender. Também gostava de história e, claro, de futebol. 
+**Resposta:** Sempre gostei muito de Inglês. Mesmo quando não entendia os filmes, sentia vontade de compreender. Também gostava de história e, claro, de futebol. 
 
 **Pergunta:** Lembras-te do teu primeiro amigo de infância? Ainda mantens contacto com ele?  
 **Resposta:** Sim, claro. É filho da melhor amiga da minha mãe. Crescemos juntos. Dormíamos em casa um do outro, passámos fins de semana e férias juntos. Temos uma amizade sólida e mantemos contacto até hoje.
